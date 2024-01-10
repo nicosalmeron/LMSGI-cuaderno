@@ -152,3 +152,46 @@ Por lo tanto, un archivo XML completo quedaría tal que así:
     </cancion>
 </root>
 ```
+
+# **Sistemas de gestión de información**
+Sus características incluyen almacenamiento estructurado, acceso y recuperación de información, seguridad, integración de datos, automatización de procesos, interfaz de usuario intuitiva, escalabilidad, auditabilidad, respaldo y recuperación, personalización, colaboración, y herramientas para informes y análisis. Estas funciones mejoran la eficiencia en la toma de decisiones y en la administración de recursos de información en una organización.
+
+- Sistemas de Gestión de Bases de Datos (SGBD)
+- Sistemas de Gestión de Documentos (DMS)
+- Sistemas de Gestión de Contenido (CMS)
+- Sistemas de Información Geográfica (SIG)
+- Sistemas de Gestión de Recursos Empresariales (ERP)
+- Sistemas de Gestión de Relaciones con el Cliente (CRM)
+- Sistemas de Gestión de Proyectos (PMS)
+
+**Características del ERP:**
+- *Integración:* Unifica datos y procesos.
+- *Módulos Funcionales:* Adaptados a áreas específicas.
+- *Automatización:* Mejora la eficiencia y reduce errores.
+- *Colaboración:* Facilita la comunicación interna.
+- *Informes y Análisis:* Toma decisiones basadas en datos.
+
+**Beneficios del ERP:**
+- *Eficiencia Operativa:* Optimiza procesos y reduce redundancias.
+- *Toma de Decisiones Informada:* Ofrece información en tiempo real.
+- *Reducción de Costos:* Minimiza costos operativos.
+- *Mejora en la Productividad:* Libera tiempo para tareas estratégicas.
+- *Mejora en la Atención al Cliente:* Facilita seguimiento y gestión eficiente.
+- *Competitividad:* Adaptable y mantiene la competitividad.
+- *Cumplimiento Normativo:* Ayuda a cumplir regulaciones y estándares.
+- *Visión Holística:* Proporciona una visión completa de la empresa.
+- *Flexibilidad:* Adaptable a diferentes tipos de empresas.
+
+**Ejemplos de ERP Conocidos:**
+
+1. *SAP ERP:* Ampliamente utilizado a nivel mundial.
+2. *Oracle ERP Cloud:* Soluciones en la nube para diversos sectores.
+3. *Microsoft Dynamics 365:* Integración estrecha con herramientas de Microsoft.
+4. *NetSuite:* Gestión empresarial en la nube, adquirido por Oracle.
+5. *Infor ERP:* Soluciones específicas para diferentes sectores.
+6. *Epicor ERP:* Enfocado en empresas de fabricación y distribución.
+7. *Odoo:* ERP de código abierto con amplias aplicaciones empresariales.
+8. *Sage X3:* Orientado a medianas y grandes empresas.
+9. *IFS Applications:* Especializado en gestión de activos y fabricación.
+10. *Acumatica:* ERP en la nube para finanzas, distribución y más.
+
