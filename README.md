@@ -194,4 +194,62 @@ Sus características incluyen almacenamiento estructurado, acceso y recuperació
 8. *Sage X3:* Orientado a medianas y grandes empresas.
 9. *IFS Applications:* Especializado en gestión de activos y fabricación.
 10. *Acumatica:* ERP en la nube para finanzas, distribución y más.
+11. 
+
+# CSS
+
+## Qué es
+Cascading Style Sheets (CSS) es un lenguaje de estilo utilizado para describir la presentación de un documento escrito en HTML.
+
+## Versiones CSS
+- CSS1
+- CSS2
+- CSS3
+- CSS4 (en desarrollo)
+
+## Cómo se agrega CSS a un documento HTML
+Se puede agregar CSS a un documento HTML de las siguientes maneras:
+1. **Incorporado**: Utilizando la etiqueta `<style>` dentro del documento HTML.
+2. **En línea**: Utilizando el atributo `style` en elementos HTML.
+3. **Enlazado externamente**: Referenciando un archivo CSS externo con la etiqueta `<link>` en el `<head>` del documento HTML.
+
+## Selectores CSS (incluyendo pseudoclases y pseudoelementos)
+Los selectores CSS permiten aplicar estilos a elementos HTML específicos. Algunos ejemplos incluyen:
+- Selector de elemento
+- Selector de clase
+- Selector de ID
+- Selector descendente
+- Pseudoclases (por ejemplo, `:hover`, `:active`, `:focus`)
+- Pseudoelementos (por ejemplo, `::before`, `::after`)
+
+## Tipos de datos y unidades en CSS
+- Tipos de datos: como números, cadenas, colores, etc.
+- Unidades: píxeles (px), porcentajes (%), ems (em), puntos (pt), etc.
+
+## Propiedades CSS
+- Modelo de cajas
+- Flexbox y Grid
+- Float y position
+- Propiedades de texto
+- Propiedades de listas
+
+### Modelo de cajas
+El modelo de cajas en CSS describe cómo se calcula el espacio ocupado por un elemento, incluyendo su contenido, padding, borde y margen.
+
+### Flex y Grid
+Flexbox y Grid son sistemas de diseño en CSS que permiten crear diseños flexibles y complejos de manera más fácil y eficiente que los métodos tradicionales.
+
+### Float y position
+Float se utiliza para posicionar elementos a la izquierda o a la derecha dentro de su contenedor. La propiedad position se utiliza para controlar la posición de un elemento en relación con su contenedor.
+
+### Propiedades de texto
+Incluyen propiedades como font-family, font-size, font-weight, text-align, entre otras, que permiten controlar la apariencia del texto en una página web.
+
+### Propiedades de listas
+Propiedades que permiten personalizar la apariencia y el comportamiento de las listas HTML, como list-style-type, list-style-image y list-style-position.
+
+## Diseño adaptativo (Media Queries)
+Las Media Queries son una característica de CSS que permite aplicar estilos diferentes según las características del dispositivo o del medio de presentación, lo que permite crear diseños adaptativos y responsivos.
+
+
 
