@@ -194,7 +194,61 @@ Sus características incluyen almacenamiento estructurado, acceso y recuperació
 8. *Sage X3:* Orientado a medianas y grandes empresas.
 9. *IFS Applications:* Especializado en gestión de activos y fabricación.
 10. *Acumatica:* ERP en la nube para finanzas, distribución y más.
-11. 
+
+
+# HTML y su evolución
+
+HTML (HyperText Markup Language) es el lenguaje estándar utilizado para crear y diseñar páginas web. A lo largo del tiempo, ha evolucionado para adaptarse a las necesidades cambiantes de la web.
+
+## XHTML: Diferencias, ventajas y desventajas con respecto a HTML
+
+XHTML (Extensible HyperText Markup Language) es una versión de HTML que sigue las reglas de XML. Algunas diferencias, ventajas y desventajas con respecto a HTML son:
+
+- **Diferencias**:
+  - XHTML es un subconjunto de XML, lo que significa que sigue una sintaxis más estricta que HTML.
+  - XHTML requiere etiquetas cerradas y un marcado más limpio.
+  
+- **Ventajas**:
+  - XHTML es más compatible con XML y, por lo tanto, puede integrarse mejor con otras tecnologías XML.
+  - Mejora la accesibilidad y la compatibilidad con dispositivos móviles.
+  
+- **Desventajas**:
+  - Puede ser más restrictivo y menos flexible que HTML.
+  - Algunas de sus reglas más estrictas pueden dificultar la migración de sitios web existentes.
+
+## Estructura de un documento HTML
+
+Un documento HTML típicamente consta de dos partes principales: la cabecera y el cuerpo.
+
+### Cabecera HTML
+
+La cabecera HTML contiene información sobre el documento y sus metadatos. Algunos elementos comunes de la cabecera son:
+
+- **Title**: Define el título del documento que se muestra en la barra de título del navegador.
+- **Meta**: Proporciona metadatos sobre el documento, como la codificación de caracteres y la descripción del contenido.
+- **Style**: Permite incluir estilos CSS en línea dentro del documento.
+- **Link**: Se utiliza para vincular el documento HTML con archivos externos, como hojas de estilo CSS.
+- **Script**: Se utiliza para incluir scripts, como JavaScript, en el documento.
+
+### Cuerpo HTML
+
+El cuerpo HTML contiene el contenido visible de la página web.
+
+- **Elementos de Bloque**: Definen secciones o bloques de contenido en la página. Algunos ejemplos incluyen `<div>`, `<p>`, `<h1>-<h6>`, `<ul>`, `<ol>`, `<li>`, `<table>`, `<form>`, entre otros.
+  
+#### Definir los diferentes elementos de bloque existentes.
+
+- **Elementos de Línea**: Son elementos que aparecen dentro de elementos de bloque y no inician una nueva línea en la página. Algunos ejemplos incluyen `<span>`, `<a>`, `<strong>`, `<em>`, `<img>`, `<input>`, `<br>`, entre otros.
+  
+#### Definir los diferentes elementos de línea existentes.
+
+- **Listas, tablas y Formularios**: HTML ofrece elementos específicos para crear listas, tablas y formularios, que son componentes comunes en las páginas web.
+  
+- **Elementos Multimedia para HTML5**: HTML5 introdujo nuevos elementos para incluir multimedia, como `<audio>` y `<video>`, facilitando la integración de contenido multimedia en las páginas web.
+
+- **Herramientas de edición y desarrollo web**: Existen diversas herramientas de edición y desarrollo web que facilitan la creación y mantenimiento de sitios web, incluyendo editores de texto, frameworks CSS, herramientas de depuración y validación, entre otros.
+
+
 
 # CSS
 
