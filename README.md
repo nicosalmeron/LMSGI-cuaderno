@@ -306,4 +306,60 @@ Propiedades que permiten personalizar la apariencia y el comportamiento de las l
 Las Media Queries son una característica de CSS que permite aplicar estilos diferentes según las características del dispositivo o del medio de presentación, lo que permite crear diseños adaptativos y responsivos.
 
 
+# Introducción a Python
 
+## ¿Qué es Python?
+
+Python es un lenguaje de programación de propósito general ampliamente utilizado por su simplicidad, legibilidad y versatilidad. Es conocido por su sintaxis clara y su enfoque en la productividad del desarrollador, lo que lo convierte en una opción popular para principiantes y expertos por igual.
+
+## Características principales de Python:
+
+- **Interpretado:** Python no necesita ser compilado antes de ejecutarse, lo que permite un desarrollo rápido y una fácil experimentación.
+- **Orientado a objetos:** Python soporta programación orientada a objetos, lo que permite crear código modular y reutilizable.
+- **Altamente extensible:** Python tiene una vasta biblioteca estándar y una gran comunidad de desarrolladores, lo que lo hace altamente extensible con numerosas bibliotecas y frameworks disponibles.
+- **Multiplataforma:** Python se puede ejecutar en una amplia gama de sistemas operativos, incluyendo Windows, macOS, Linux y muchos más.
+
+## Componentes básicos de Python:
+
+1. **Variables:**
+
+   Las variables son contenedores de datos que almacenan valores. Se identifican por nombres únicos y se pueden utilizar para almacenar y manipular datos durante la ejecución del programa.
+
+2. **Tipos de datos:**
+
+   Python ofrece diversos tipos de datos básicos para representar diferentes tipos de información, como números enteros (int), números reales (float), cadenas de texto (str), valores booleanos (bool) y listas (list).
+
+3. **Estructuras de control:**
+
+   Las estructuras de control permiten controlar el flujo de ejecución del programa. Las estructuras condicionales (if-else) permiten tomar decisiones en función de condiciones específicas, mientras que las estructuras repetitivas (for, while) permiten ejecutar bloques de código de forma repetitiva.
+
+4. **Listas:**
+
+   Las listas son colecciones ordenadas de elementos que pueden almacenar valores de diferentes tipos. Son mutables, lo que significa que sus elementos se pueden modificar después de su creación.
+
+5. **Tuplas:**
+
+   Las tuplas son similares a las listas, pero son inmutables, lo que significa que sus elementos no se pueden modificar después de su creación. Son útiles para almacenar datos estáticos o colecciones que no necesitan ser modificadas.
+
+6. **JSON (JavaScript Object Notation):**
+
+   JSON es un formato de intercambio de datos ligero y basado en texto que se utiliza para almacenar y transmitir datos estructurados. Python ofrece bibliotecas como json para trabajar con datos JSON de forma fácil y eficiente.
+
+7. **MongoDB:**
+
+   MongoDB es una base de datos NoSQL que almacena datos en documentos JSON. Es conocida por su flexibilidad, escalabilidad y rendimiento, lo que la convierte en una opción popular para aplicaciones web modernas y aplicaciones que manejan grandes volúmenes de datos.
+
+## Integración de Python y MongoDB:
+
+La biblioteca pymongo permite a las aplicaciones Python interactuar con bases de datos MongoDB. Facilita la realización de operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en documentos JSON almacenados en MongoDB.
+
+### Operaciones básicas con MongoDB usando pymongo:
+
+- **Insertar:** Insertar nuevos documentos en la colección.
+- **Consultar:** Buscar documentos en la colección según criterios específicos.
+- **Borrar:** Eliminar documentos de la colección.
+- **Modificar:** Actualizar documentos existentes en la colección.
+
+## En resumen:
+
+Python es un lenguaje de programación versátil y poderoso que se utiliza en una amplia gama de aplicaciones. Su simplicidad, legibilidad y amplia gama de bibliotecas lo convierten en una excelente opción para principiantes y expertos por igual. La integración de Python con MongoDB mediante pymongo facilita el desarrollo de aplicaciones web modernas y el manejo de grandes volúmenes de datos.
