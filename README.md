@@ -360,6 +360,3 @@ La biblioteca pymongo permite a las aplicaciones Python interactuar con bases de
 - **Borrar:** Eliminar documentos de la colección.
 - **Modificar:** Actualizar documentos existentes en la colección.
 
-## En resumen:
-
-Python es un lenguaje de programación versátil y poderoso que se utiliza en una amplia gama de aplicaciones. Su simplicidad, legibilidad y amplia gama de bibliotecas lo convierten en una excelente opción para principiantes y expertos por igual. La integración de Python con MongoDB mediante pymongo facilita el desarrollo de aplicaciones web modernas y el manejo de grandes volúmenes de datos.
